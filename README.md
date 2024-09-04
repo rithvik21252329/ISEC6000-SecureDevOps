@@ -26,11 +26,13 @@ Creating gcloud container.
 
 
 Verifying 
+
  ![Picture4](https://github.com/user-attachments/assets/a54eaea7-4c4f-48d5-a36b-80ff4d671b10)
 
 
 ### Task1.2: Configure kubectl
 Installing
+
 ![Picture5](https://github.com/user-attachments/assets/5ba177ef-bc77-4518-b3b0-c18b9796bb98)
 
  
@@ -47,9 +49,10 @@ Creating repository
  
 ![Picture8](https://github.com/user-attachments/assets/4decc3ab-0d7b-4752-ac44-f72b538813d4)
 
+
+![Picture9](https://github.com/user-attachments/assets/5e6c9a5b-cf31-4397-b1fb-6273cf9b35cf)
 Repository created
  
-![Picture9](https://github.com/user-attachments/assets/5e6c9a5b-cf31-4397-b1fb-6273cf9b35cf)
 
  
 

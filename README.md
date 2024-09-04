@@ -6,6 +6,7 @@ Setting up VM on GCP for project.
 
  
 
+![Picture1](https://github.com/user-attachments/assets/90720edc-d57b-4721-8b12-86acec32c8d6)
 
 
 Setting up google cloud CLI with the help of command ‘curl https://sdk.cloud.google.com | bash’
